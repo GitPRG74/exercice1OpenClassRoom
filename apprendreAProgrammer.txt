@@ -1,2 +1,4 @@
 je suis ce cours openclassroom pour apprendre la programmation
 je souaiterais apprendre le java, mais je suis en parallele ce cours sur l'outil permettant la gestion du versionning
+*modification opéré depuis ma machine locale*
+je trouve le format des cours vraiment sympa
